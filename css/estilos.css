@@ -7,6 +7,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+	display: none;
 }
 .menu a:visited, .menu a:active{
 	text-decoration: none;
@@ -18,7 +19,6 @@ body {
 	font-family: 'Niconne', cursive;
 	padding-bottom: 0px;
 	padding-top: 0px;
-
 }
 .titulo-principal, .contacto{
 	color:#F7A859;
@@ -27,7 +27,6 @@ body {
 .titulo-principal .titulo{
 	font-size: 90px;
 }
-
 .btn_menu {
 	background: rgba(40, 2, 2, .4);
 	color:#F7A859;
